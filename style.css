@@ -1,0 +1,167 @@
+body {
+font-family: Open Sans, sans-serif;
+font-size: 11pt; 
+background-color: #fff;
+color: #blue;
+
+}
+
+
+
+
+p{
+margin: 3px;
+}
+
+h1 {
+color: #blue;
+font-size: 24pt;
+font-family: Open Sans, serif;
+font-weight: normal;
+}
+
+.descr { 
+
+visibility: hidden;
+ display : none;
+}
+
+.submitButton{
+padding:7px 9px 8px 9px;
+background-color: red;
+
+border-radius: 20px;
+font-size: 15px;
+font-family: Open Sans;
+border: none;
+margin-top: 20px;
+}
+
+.div{
+background-color: #40E0D0;
+color:#fff;
+width: 50%;
+text-align:center;
+min-width: 340px;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px;
+}
+
+.d{
+background-color: #FFFFFF;
+color:#2F4F4F;
+width: 50%;
+text-align:center;
+min-width: 300px;
+border-radius: 30px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
+}
+
+.divbodytable
+{
+background-color: #FFFFFF;
+color:#fff;
+width: 50%;
+text-align:center;
+min-width: 340px;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 20px;
+}
+
+
+.q{
+margin:0;
+font-size: 35px;
+padding-top: 10px;
+color:#2F4F4F;
+
+}
+
+.r2{
+font-size: 40px;
+margin: 0;
+}
+
+
+
+.r1{
+margin:0;
+font-size: 35px;
+padding-top: 10px;
+}
+
+.r3{
+display:inline-block;
+color:#0000FF;
+}
+
+.ver
+{
+	width: 70px;
+	height: 70px;
+	background: red;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+}
+
+.vof
+{
+	width: 70px;
+	height: 70px;
+	background: gray;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+}
+
+
+.vok
+{
+	width: 70px;
+	height: 70px;
+	background: green;
+	-moz-border-radius: 70px;
+	-webkit-border-radius: 70px;
+	border-radius: 70px;
+}
+
+.rele_on
+{
+background-image: url("http://www.ldi.dp.ua/images/st_rele_on.jpg");}
+width: 30px;
+    height: 20px;
+    display: block;
+}
+
+
+.on{
+font-size: 70px;
+margin: 0;
+color:#99F0A4;
+
+}
+
+.off{
+font-size: 70px;
+margin: 0;
+color: #F78995;
+}
+
+
+
+
+
+form{
+margin: 0;
+}
+
+
+
+
